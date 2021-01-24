@@ -1,0 +1,32 @@
+#TAG,NAME IN REPO (or git url),PURPOSE (should be a verb phrase to sound right while installing)
+,ack, "grep alternative"
+,vim, "VIM is Love, VIM is Life"
+,feh, "wallpaper printer and image viewer"
+,picom, "compositor, formerly compton"
+,xorg, "X11"
+,linux-firmware-intel, "firmware for intel chips"
+,intel-video-accel, "intel video accelleration driver"
+,dmenu, "dropdown menu"
+,ranger, "ncurses file browser"
+,unclutter, "make mouse diappear when not used"
+,xcompmgr, "for transparency"
+,qutebrowser, "teh interwebs"
+,dunst, "notifications"
+,youtube-dl, "download youtube videos"
+,htop, "performance monitor"
+,libX11-devel, "development libraries for X11"
+,libXft-devel, "library for configuring and customizing font access development files"
+,libXinerama-devel, "X PanoramiX extentions library development files"
+,harfbuzz-devel, "OpenType text shaping engine used by st"
+,pulseaudio, "teh audio"
+,mpd, "music player daemon
+,ncmpcpp, "music player"
+,mpc, "music control"
+,alsa-utils, "audio driver"
+,apulse, "audio driver
+,ueberzug, "image previews used by ranger"
+,python3-pip, "PyPA recommended tool for installing PyPI package"
+,pywal, "Generate and change colorschemes on the fly"
+ 
+
+
