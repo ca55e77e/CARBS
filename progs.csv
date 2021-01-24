@@ -19,11 +19,11 @@
 ,libXinerama-devel, "X PanoramiX extentions library development files"
 ,harfbuzz-devel, "OpenType text shaping engine used by st"
 ,pulseaudio, "teh audio"
-,mpd, "music player daemon
+,mpd, "music player daemon"
 ,ncmpcpp, "music player"
 ,mpc, "music control"
 ,alsa-utils, "audio driver"
-,apulse, "audio driver
+,apulse, "audio driver"
 ,ueberzug, "image previews used by ranger"
 ,python3-pip, "PyPA recommended tool for installing PyPI package"
 ,pywal, "Generate and change colorschemes on the fly"
